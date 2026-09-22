@@ -314,10 +314,10 @@
 
 .btn-bottom{
   position: absolute;
-    top: 103rem;
-    left: 14rem;
+    top: 105rem;
+    left: 17rem;
     font-family: 'Cormorant Garamond', serif;
-    font-size: 8rem;
+    font-size: 6rem;
     font-weight: 700;
     letter-spacing: 0.04em;
     color: var(--romance-ink);
@@ -327,8 +327,7 @@
     padding: 0.35rem 1.3rem 0.55rem;
     box-shadow: 0 1rem 2.4rem rgba(111, 37, 83, 0.2), inset 0 0.1rem 0.2rem rgba(255, 255, 255, 0.75);
     cursor: pointer;
-    transition: transform 0.25s ease, box-shadow 0.25s ease, background 0.25s ease;
-}
+    transition: transform 0.25s ease, box-shadow 0.25s ease, background 0.25s ease;}
 
 .btn-bottom:hover {
   transform: translateY(-0.2rem);
